@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function addNames() {
     //clear out old names
     document.getElementById('displayNames').innerHTML = '';
+    groups.innerHTML = "";
 
     names = input.value.split(',');
     // console.log(names);
