@@ -1,0 +1,54 @@
+ul {
+  display: inline-block;
+  alignment-baseline: 50px;
+}
+
+
+#randomStudent {
+  margin-bottom: 2px;
+}
+
+#groupInput {
+  margin-bottom: 10px;
+}
+
+#groups {
+  background-color: #FFCE66;
+  color: #70C1B3;
+}
+
+.display {
+  background-color: #247BA0;
+  /*width: 100px;*/
+  margin: 0 auto;
+  margin-bottom: 10px;
+  
+}
+
+.select {
+  padding: 2em;
+  float: center;
+
+}
+
+#output {
+  padding: 10px;
+  background-color: #F25F5C;
+  margin: 0 auto;
+  width:150px;
+
+
+}
+
+.container {
+    width:100%;
+    text-align: center;
+    
+}
+body {
+  background-color: #50514F;
+  color: #FFFFFF;
+
+}
+
+
